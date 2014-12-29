@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MAPit_backend-android-endpoints">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MAPit_backend/build/libs/MAPit_backend-android-endpoints.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

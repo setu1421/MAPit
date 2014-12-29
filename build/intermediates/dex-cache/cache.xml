@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\shubhashis\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.19.0\e3f11020c2c812112803d252d1392872d3f619c8\google-http-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
+        <dex dex="J:\Android_Project\MAPit\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.19.0-b06a450cddf7adb1141890ac6de956702cdde16e.jar" />
+    </item>
+    <item
+        jar="J:\Android_Project\MAPit\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="J:\Android_Project\MAPit\app\build\intermediates\pre-dexed\debug\classes-5ad6612a41a0d3e71e11aff485e321cd824e4085.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubhashis\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.19.0\ba2aafb867f6af469f936ae76426cf0a280094bd\google-api-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd">
+        <dex dex="J:\Android_Project\MAPit\app\build\intermediates\pre-dexed\debug\google-api-client-android-1.19.0-038b0df67ba866cb3c6c8107100e7d8fa14e9cda.jar" />
+    </item>
+    <item
+        jar="J:\Android_Project\MAPit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="J:\Android_Project\MAPit\app\build\intermediates\pre-dexed\debug\classes-667caf527c94d22088ea4ad072998835d6887659.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubhashis\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.19.0\6a21277d9bebe267b7ddee028b241eebc756c040\google-api-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
+        <dex dex="J:\Android_Project\MAPit\app\build\intermediates\pre-dexed\debug\google-api-client-1.19.0-1fb9dbb5872117ce6eca8c2c8936eadf6c7b4ec6.jar" />
+    </item>
+    <item
+        jar="J:\Android_Project\MAPit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="J:\Android_Project\MAPit\app\build\intermediates\pre-dexed\debug\classes-93dce69d1027b2ef7cbff1126a72c4519c22099c.jar" />
+    </item>
+    <item
+        jar="J:\Android_Project\MAPit\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="J:\Android_Project\MAPit\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-a1aef63fcd8d2d0f25e940e77f961b44711ade84.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubhashis\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.19.0\81dbf9795d387d5e80e55346582d5f2fb81a42eb\google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="J:\Android_Project\MAPit\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.19.0-a5985d5e89c8c5503e6988caf5f709982bc1c140.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubhashis\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="J:\Android_Project\MAPit\app\build\intermediates\pre-dexed\debug\guava-jdk5-13.0-3be5a6691313680920f8c79d92b284936bc4107f.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubhashis\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="J:\Android_Project\MAPit\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-52a0f5e6979f27e9e99cdf2fc4790c58872f5af9.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubhashis\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.19.0\d473a8962e14a707a3716637e4898bb2dd9643f2\google-oauth-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="J:\Android_Project\MAPit\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.19.0-60e54037a73a205485649b3e21e068cd46264e58.jar" />
+    </item>
+    <item
+        jar="J:\Android_Project\MAPit\backend\build\libs\backend-android-endpoints.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d251bf589ee3dd13e36a534481fe3ac92b0070fa">
+        <dex dex="J:\Android_Project\MAPit\app\build\intermediates\pre-dexed\debug\backend-android-endpoints-b7614a966707cd8a97bc587ed29cace8e0a11c25.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubhashis\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.19.0\cdca49ad0977c040f603478aa2e16b2775c8fec6\google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="J:\Android_Project\MAPit\app\build\intermediates\pre-dexed\debug\google-http-client-1.19.0-205391de32d8ee5addd7524a685daf9230d0087a.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubhashis\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="J:\Android_Project\MAPit\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-1f7befc0d12a8b0944f6fe3e10bc7a1b8a5efed8.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubhashis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="J:\Android_Project\MAPit\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-f8cb19ed9d14114e9c1cb8e222a6ea941ed9306a.jar" />
+    </item>
+
+</items>

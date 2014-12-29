@@ -1,0 +1,6 @@
+J:\Android_Project\MAPit\app\build\intermediates\classes\debug
+J:\Android_Project\MAPit\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-f8cb19ed9d14114e9c1cb8e222a6ea941ed9306a.jar
+J:\Android_Project\MAPit\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-a1aef63fcd8d2d0f25e940e77f961b44711ade84.jar
+J:\Android_Project\MAPit\app\build\intermediates\pre-dexed\debug\classes-667caf527c94d22088ea4ad072998835d6887659.jar
+J:\Android_Project\MAPit\app\build\intermediates\pre-dexed\debug\classes-5ad6612a41a0d3e71e11aff485e321cd824e4085.jar
+J:\Android_Project\MAPit\app\build\intermediates\pre-dexed\debug\classes-93dce69d1027b2ef7cbff1126a72c4519c22099c.jar
