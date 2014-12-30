@@ -1,6 +1,6 @@
 package com.MAPit.MAPit_backend;
 
-/**
+/**comment
  * Created by setu on 12/27/2014.
  */
 public class Response_Messages {
