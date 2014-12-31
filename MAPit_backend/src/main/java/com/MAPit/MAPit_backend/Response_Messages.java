@@ -1,7 +1,7 @@
 package com.MAPit.MAPit_backend;
 
 /**comment added
- * Created by setu on 12/27/2014.
+ * Created by setu and shubhashis on 12/27/2014.
  */
 public class Response_Messages {
     public String response_message;
